@@ -1,0 +1,15 @@
+{
+  "name": "rollup-squared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "rollup": "rollup -c rollup.config.js",
+    "rollupSquared": "rollup -c rollupSquared.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^0.63.4"
+  }
+}
