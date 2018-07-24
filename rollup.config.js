@@ -9,5 +9,10 @@ export default {
       sourcemap: 'inline',
       name: 'indexRolledUp'
     },
+    {
+      file: './src/index_rolledUp.mjs',
+      format: 'esm',
+      sourcemap: 'inline'
+    },
   ],
 };

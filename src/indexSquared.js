@@ -1,3 +1,3 @@
-import indexRolledUp from './index_rolledUp';
+import {aSquared} from './index_rolledUp';
 
-indexRolledUp.aSquared();
+aSquared();
